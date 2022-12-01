@@ -12,11 +12,11 @@
    -[Additional Info](#addtional-info)
 
    ## Description:
-   A node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+   A fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
    ## Installation:
    This can be installed by downloading and unzipping the file
    ## Usage:
-   This will create a HTML webpage based on user input.
+   This will create book search results based on user input.
    ## Contribution:
    None
    ## Testing:
